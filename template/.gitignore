@@ -1,0 +1,3 @@
+# wrk runtime files; commit tickets and configuration in .wrk/.
+**/.wrk/.lock
+**/.wrk/.wrk-stage-*
